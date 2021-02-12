@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Montserrat', Sans-serif;
+}
+
+header nav{
+	display: flex; 
+	justify-content: space-between;
+}
+
+#logo{
+	font-size: 20px ;
+	font-weight: bold ;
+	padding: 24px;
+	padding-left: 70px;	
+}
+
+.Create-Accont{
+	color: black;
+	padding: 15px;
+	padding-top: 30px;
+	padding-right: 100px;	
+} 
+
+a{
+	text-decoration: none;	
+}
+
+
+            /* Parte do Formulário*/ 
+
+.info{
+	 padding-top: 140px;                 /* ISSO FOI FEITO PARA POSICIONAR CENTRALIZADO...  */ 
+	 padding-right: 20px
+}
+
+#Titulo{
+	color: black;
+	text-align: center;
+	font-size: 24px;
+	padding-bottom: 29px;
+	padding-left: 30px;
+}
+
+.group{
+	text-align: center;
+	border: 0;
+}
+
+
+.campo{
+	margin-bottom: 1em;
+}
+
+.campo label{
+	margin-bottom: 0.2em;
+	color: black;
+	display: block;
+}                             
+
+
+input, button{
+		border-radius: 5px;
+		border-color: #BDBDBD;
+} 
+
+input{
+
+   width: 370px;
+   height: 41px;
+}
+
+#b{	
+    padding-right: 270px;
+    padding-bottom: 5px;
+}
+
+#c{
+    padding-right: 210px;
+    padding-bottom: 5px;
+}
+
+#botao{
+	width: 370px;
+    height: 42px;
+	border: solid;
+	border-radius: 6px ;
+	border-color:#2E2EFE ;
+	background: #2E2EFE;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+}
+
