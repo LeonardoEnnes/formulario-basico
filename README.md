@@ -1,9 +1,8 @@
 Formulario
-<h1>
+
   
 ![](https://ik.imagekit.io/wnf4vpn3jub/Captura_de_Tela__19__owZc2KyzL.png")
 
-</h1>
 
 ## 📝Sobre: 
 Este pequeno projeto é um **Formulário**  no qual foi desenvolvido
