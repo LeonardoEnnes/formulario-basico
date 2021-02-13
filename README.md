@@ -1,7 +1,6 @@
 
+![Captura de Tela (19)](https://user-images.githubusercontent.com/75868680/107835539-98ae6080-6d78-11eb-8202-4e53bd37c7bd.png)
 
-  
-![](https://ik.imagekit.io/wnf4vpn3jub/Captura_de_Tela__19__owZc2KyzL.png")
 
 
 ## 📝Sobre: 
